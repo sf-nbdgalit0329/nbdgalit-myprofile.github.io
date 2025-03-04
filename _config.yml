@@ -1,1 +1,4 @@
-
+title: MyProfile
+#logo
+description: this is my profile site.
+theme: jekyll-remote-theme  #note: the most important line
